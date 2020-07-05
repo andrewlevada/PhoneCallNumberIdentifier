@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhoneCallNumberIdentifier</string>
+    <string name="hello_string">Hello World! \nSee logcat.</string>
+</resources>
